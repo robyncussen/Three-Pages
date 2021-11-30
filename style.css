@@ -4,6 +4,7 @@ img {
 }
 body {
 	max-width:  600px;
+	text-align: center;
 	margin: 0 auto;
 	font-size:  1rem;
 	font-family:  serif;
@@ -13,6 +14,4 @@ body {
 a {
 	color:  darkorange;
 }
-section {
-	
-}
+
