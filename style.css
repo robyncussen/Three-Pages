@@ -1,0 +1,18 @@
+img {
+	max-width:  75%;
+	margin: 1rem;
+}
+body {
+	max-width:  600px;
+	margin: 0 auto;
+	font-size:  1rem;
+	font-family:  serif;
+	color: ghostwhite;
+	background: lightsteelblue;
+}
+a {
+	color:  darkorange;
+}
+section {
+	
+}
